@@ -12,7 +12,7 @@ const player2Section = document.querySelector("#player2");
 
 let currentPlayer = 1; //whoStart(1, 2)
 let gameIsInProgress = true;
-let isIAOn = false;
+let isIAOn = true;
 
 let player1Points = 0;
 let player2Points = 0;
